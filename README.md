@@ -2,7 +2,7 @@
 
 Meu nome é Thiago Soares
 
-- Nesse momento estou estudando na Alura
+- Nesse momento estou estudando na [Alura](https:www.Alura.com)
 - Ainda estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 - Bem... é so isso
